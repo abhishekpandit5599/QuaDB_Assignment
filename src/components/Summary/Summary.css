@@ -1,0 +1,36 @@
+
+/*  */
+.summary-container{
+    margin: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+}
+.summary-div img{
+    width: 100%;
+}
+.summary-details{
+    padding: 10px;
+}
+.info p{
+    display: inline-block;
+    margin-top: 5px;
+}
+.info-data{
+    float: right;
+}
+.summary{
+    margin: 10px 0px;
+}
+.back-btn{
+    margin: 10px;
+    display: inline-block;
+    position: absolute;
+    background-color: white;
+    border-radius: 50%;
+    padding: 3px 20px;
+    cursor: pointer;
+}
+.back-btn:hover{
+    color: white;
+    background-color: black;
+}

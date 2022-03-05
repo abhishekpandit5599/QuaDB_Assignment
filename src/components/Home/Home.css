@@ -1,0 +1,39 @@
+
+/*  */
+.home-container{
+    display: inline-block;
+}
+.indivitual-container{
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: inline-block;
+    overflow: hidden;
+    border-radius: 10px;
+}
+.indivitual-container img{
+    width: 230px;
+}
+.summary-btn-container{
+    margin: 10px;
+    text-align: right;
+}
+.summaryButton{
+    margin-top: 10px;
+    width: 100%;
+    padding: 8px 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+    cursor: pointer;
+}
+.summaryButton:hover{
+    color: white;
+    background-color: black;
+}
+.info p{
+    display: inline-block;
+    margin-top: 5px;
+}
+.info-data{
+    float: right;
+}
